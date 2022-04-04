@@ -62,7 +62,7 @@
   "devDependencies": {
     "electron": "^17.1.0",
     "electron-builder": "^22.13.1",
-    "prettier": "^2.5.1"
+    "prettier": "^2.6.2"
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"
